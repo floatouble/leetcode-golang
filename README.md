@@ -1,2 +1,2 @@
-# leetcode-golang
-Solutions to Leetcode problems in Golang
+# leetcode-golang-cpp
+Solutions to Leetcode problems in Golang and C++.
